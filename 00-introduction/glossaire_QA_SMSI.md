@@ -70,13 +70,13 @@
 * **Qualité :** Aptitude d'un ensemble de caractéristiques intrinsèques d'un produit ou service à satisfaire des exigences (norme cadre ISO 9001). *(Source : [ISO 9001](https://www.iso.org/fr/iso-9001-quality-management.html))*
 
 ### R
-* **RISQUE :** Effet de l'incertitude sur les objectifs ; combinatoire de la probabilité d'occurrence d'une menace et de la gravité de ses impacts sur une vulnérabilité. *(Source : [ISO/IEC 27005](https://www.iso.org/fr/standard/75281.html))*
+* **RISQUE :** Probabilité d'occurrence d'une menace et de la gravité de ses impacts sur une vulnérabilité. *(Source : [ISO/IEC 27005](https://www.iso.org/fr/standard/75281.html))*
 * **RGPD (Règlement Général sur la Protection des Données) :** Règlement de l'UE (2016/679) encadrant le traitement des données à caractère personnel. *(Source : [CNIL RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees))*
 * **RSSI (Responsable de la Sécurité des Systèmes d'Information) :** Le/la cadre responsable du pilotage, de l'élaboration et de la mise en œuvre de la PSSI au sein d'une organisation. *(Source : [ANSSI Métiers de la Cybersécurité](https://cyber.gouv.fr/panorama-des-metiers-de-la-cybersecurite))*
 
 ### S
 * **SecNumCloud :** Référentiel de qualification créé par l'ANSSI garantissant un haut niveau de sécurité pour les offreurs de services Cloud. *(Source : [ANSSI SecNumCloud](https://cyber.gouv.fr/secnumcloud))*
-* **Sensibilisation :** Action d'information et de formation continue auprès des collaborateurs visant à promouvoir une culture de la cybersécurité et réduire le risque humain.
+* **Sensibilisation :** Action d'information et de formation continue auprès des collaborateurs visant à promouvoir une culture de la sécurité et réduire le risque humain.
 * **SMSI (Système de Management de la Sécurité de l'Information) :** Cadre organisationnel et global intégrant politiques, processus, rôles et mesures de sécurité (aligné sur ISO 27001). *(Source : [ISO/IEC 27001](https://www.iso.org/fr/standard/82875.html))*
 * **SOA (Statement of Applicability / Déclaration d'Applicabilité) :** Document obligatoire dans ISO 27001 résumant les mesures de sécurité retenues/exclues et leurs justifications. *(Source : [ISO/IEC 27001](https://www.iso.org/fr/standard/82875.html))*
 * **STIG (Security Technical Implementation Guides) :** Guides de configuration de sécurité technique édités par la DISA américaine pour durcir systèmes et logiciels. *(Source : [DISA STIGs](https://public.cyber.mil/stigs/))*
